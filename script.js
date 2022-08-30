@@ -45,6 +45,12 @@ const music_list = [
     artist: "Billie Eilish",
     music: "music/Billie Eilish COPYCAT (Acoustic).mp3",
   },
+  {
+    img: "images/itte.capa.jpg",
+    name: "Yorushika - Say it",
+    artist: "Yorushika (ヨルシカ)",
+    music: "music/ヨルシカ - 言って。(Music Video).mp3",
+  },
 ];
 
 loadTrack(track_index);
