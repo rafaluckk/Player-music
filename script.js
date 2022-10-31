@@ -22,6 +22,12 @@ let updateTimer;
 
 const music_list = [
   {
+    img: "images/lalisa.jpg",
+    name: "LALISA' M/V",
+    artist: "LISA",
+    music: "music/LISA - LALISA MV.mp3",
+  },
+  {
     img: "images/paramore.png",
     name: "Decode",
     artist: "Paramore",
